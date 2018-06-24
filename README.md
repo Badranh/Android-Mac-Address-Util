@@ -6,7 +6,7 @@
 ```
 MacAddress.getMacAddr();
 ```
-it will return the mac address of the android phone in a string / 00:00:00:00:00 will be returned in case of failure
+easy and lightweight mac address util , it will return the mac address of the android phone in a string / 00:00:00:00:00 will be returned in case of failure
 
 # How to add to your app 
 
