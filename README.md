@@ -1,14 +1,14 @@
 # Android-Mac-Address-Util
 
 
-<h3> USAGE </h3>
+# USAGE 
 
 ```
 MacAddress.getMacAddr();
 ```
 it will return the mac address of the android phone in a string  00:00:00:00:00 will be returned in case of failure
 
-<h3> How to add to your app <h3>
+# How to add to your app 
 
 add this to your dependencies in build.gradle file
 
